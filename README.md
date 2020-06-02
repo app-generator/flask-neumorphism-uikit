@@ -1,8 +1,6 @@
-# [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask)
+# [Flask Neumorphism UI Kit](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple web apps coded in [Flask](https://palletsprojects.com/p/flask/)
-
-## Features
+> **Open-Source Web App** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
 - UI Kit: **Neumorphism UI** by **Themesberg**
 - UI-Ready, Jinja2 templating
@@ -14,14 +12,14 @@
 
 > Links
 
-- [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask) - Official product page
+- [Flask Neumorphism UI Kit](https://flask-neumorphism-uikit.appseed.us/) - LIVE Demo
+- [Flask Neumorphism UI Kit](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit) - Official product page
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Boierplate Code Flask - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-flask/master/media/boilerplate-code-flask-screen.png)
+![Flask Neumorphism UI Kit - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-neumorphism-uikit/master/media/flask-neumorphism-uikit-screen-2.png)
 
 <br />
 
@@ -29,8 +27,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
+$ git clone https://github.com/app-generator/flask-neumorphism-uikit.git
+$ cd flask-neumorphism-uikit
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -124,8 +122,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
+$ git clone https://github.com/app-generator/flask-neumorphism-uikit.git
+$ cd flask-neumorphism-uikit
 ```
 
 > Start the app in Docker
@@ -189,4 +187,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Boierplate Code Flask](https://appseed.us/boilerplate-code/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Neumorphism UI Kit](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
