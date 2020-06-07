@@ -1,5 +1,9 @@
 # Change Log
 
+## [Unreleased] 2020-06-07
+### Bug Fix
+- The password storage is now Bcrypt.hashed
+
 ## [1.0.2] 2020-06-02
 ### Improvements
 - Added deploy scripts: Docker, Gunicorn
